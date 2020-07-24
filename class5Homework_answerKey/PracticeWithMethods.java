@@ -1,6 +1,6 @@
 package class5Homework_answerKey;
 
-public class PracticeWIthMethods {
+public class PracticeWithMethods {
 
 	public static void main(String[] args) {
 		System.out.println(bothGreaterThan100(10, 101));
