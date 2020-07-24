@@ -1,4 +1,4 @@
-package class4;
+package graphicsTools;
 
 import java.awt.Color;
 import java.awt.Dimension;
