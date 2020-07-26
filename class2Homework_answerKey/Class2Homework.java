@@ -14,10 +14,13 @@ public class Class2Homework {
 
 		// Practice with user input
 		Scanner scanner = new Scanner(System.in);
+		
 		System.out.println("Please enter an integer: ");
 		int value1 = scanner.nextInt();
 		System.out.println("Please enter another integer: ");
 		int value2 = scanner.nextInt();
+		
+		scanner.close();
 
 		int sum = value1 + value2;
 		System.out.println("The sum of your integers is " + sum + ".");
