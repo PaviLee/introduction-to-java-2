@@ -13,7 +13,7 @@ public class Quadrants {
 		int y = scanner.nextInt();
 
 		scanner.close();
-		
+
 		String output = "(" + x + ", " + y + ") is ";
 
 		if (x > 0 && y > 0) {
@@ -30,5 +30,4 @@ public class Quadrants {
 
 		System.out.println(output);
 	}
-
 }
